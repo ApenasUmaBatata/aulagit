@@ -1,4 +1,0 @@
-Meu primeiro repositório
-novo texto pra aula git
-mais um texto pra aula
-teste1
